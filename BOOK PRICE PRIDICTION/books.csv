@@ -1,0 +1,11 @@
+book_id,title,author,genre,price,description,mood
+1,To Kill a Mockingbird,Harper Lee,Fiction,10.99,"A novel about racial injustice in the Deep South, seen through the eyes of a young girl.",Serious
+2,1984,George Orwell,Dystopian,8.99,A dystopian novel that explores the dangers of totalitarianism and oppressive regimes.,Dark
+3,The Great Gatsby,F. Scott Fitzgerald,Classic,12.99,A story of the mysterious millionaire Jay Gatsby and his obsession with the beautiful Daisy Buchanan.,Romantic
+4,Pride and Prejudice,Jane Austen,Romance,9.99,A classic novel about the manners and matrimonial machinations among the British gentry of the early 19th century.,Romantic
+5,The Catcher in the Rye,J.D. Salinger,Young Adult,11.99,"A novel about a disenchanted teenager, Holden Caulfield, and his experiences in New York City.",Melancholic
+6,The Hobbit,J.R.R. Tolkien,Fantasy,13.99,A fantasy adventure about Bilbo Baggins' journey to help a group of dwarves reclaim their homeland.,Adventurous
+7,Brave New World,Aldous Huxley,Science Fiction,10.49,A novel set in a futuristic world where society is engineered for maximum happiness and stability.,Dark
+8,Moby-Dick,Herman Melville,Classic,14.99,"An epic tale of Captain Ahab's obsessive quest to kill the white whale, Moby Dick.",Serious
+9,The Lord of the Rings,J.R.R. Tolkien,Fantasy,19.99,A high fantasy epic following the quest to destroy a powerful ring and defeat the Dark Lord Sauron.,Adventurous
+10,The Alchemist,Paulo Coelho,Fiction,7.99,A philosophical novel about a shepherd's journey to find his personal legend and fulfill his dreams.,Inspirational
